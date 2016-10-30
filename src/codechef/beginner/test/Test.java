@@ -1,4 +1,4 @@
-package codechef;
+package codechef.beginner.test;
 
 
 /**
